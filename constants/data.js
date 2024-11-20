@@ -1,0 +1,25 @@
+const categories = [
+  "backgrounds",
+  "fashion",
+  "nature",
+  "science",
+  "education",
+  "feelings",
+  "health",
+  "poeple",
+  "religion",
+  "places",
+  "animals",
+  "industry",
+  "computer",
+  "food",
+  "spots",
+  "transportation",
+  "travel",
+  "buildings",
+  "business",
+  "music",
+];
+export const data = {
+  categories,
+};
